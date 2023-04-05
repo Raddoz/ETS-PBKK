@@ -1,0 +1,20 @@
+D:\PBKK\ETS PBKK\bin\Debug\ETS PBKK.exe.config
+D:\PBKK\ETS PBKK\bin\Debug\ETS PBKK.exe
+D:\PBKK\ETS PBKK\bin\Debug\ETS PBKK.pdb
+D:\PBKK\ETS PBKK\bin\Debug\MaterialDesignColors.dll
+D:\PBKK\ETS PBKK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PBKK\ETS PBKK\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\PBKK\ETS PBKK\bin\Debug\MaterialDesignColors.pdb
+D:\PBKK\ETS PBKK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PBKK\ETS PBKK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PBKK\ETS PBKK\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\PBKK\ETS PBKK\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.AssemblyReference.cache
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.SuggestedBindingRedirects.cache
+D:\PBKK\ETS PBKK\obj\Debug\ETS_PBKK.Form1.resources
+D:\PBKK\ETS PBKK\obj\Debug\ETS_PBKK.Properties.Resources.resources
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.GenerateResource.cache
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.CoreCompileInputs.cache
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.csproj.CopyComplete
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.exe
+D:\PBKK\ETS PBKK\obj\Debug\ETS PBKK.pdb
